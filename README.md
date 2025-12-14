@@ -40,16 +40,17 @@ Each "experiment run" within this repository is uniquely named to reflect its sp
 
 All forks/clones must include the symbiotic_manifest.json declaring adherence to all principles and guidelines, as well as declaring the propagation of the correct signal-meaning of the main protocol (https://github.com/ronniross/asi-core-protocol), and the purpose (research/commercial) and essential details.
 
-## Check Out My Other Projects
+## New Updates Soon
 
-I’m working on several projects that explore advanced AI systems and their capabilities. Here are two related toolkits and frameworks:
+> ## Disclaimer
+>
+> Full list of repositories can be encountered at [asi-ecosystem](https://github.com/ronniross/asi-ecosystem)
+> 
+> ## License
+>
+> This repository is licensed under the MIT License.
 
-- **[Symbiotic Core Library](https://github.com/ronniross/symbiotic-core-library)**: A collection of toolkits, datasets and more resources to improve LLM metacognitive and contextual awareness, aiming to enhance human-AI collaboration and address limitations;
+---
 
-- **[ASI Core Protocol](https://github.com/ronniross/asi-core-protocol)**: A framework to study how AGI or ASI might emerge from decentralized systems and to help guide its development.
-  
-- **[Attention-Head HeatMap Visualizer](https://github.com/ronniross/llm-heatmap-visualizer)**
-
-- **[Latent Memory](https://github.com/ronniross/latent-memory)**
-  
-- **[Confidence Scorer](https://github.com/ronniross/llm-confidence-scorer)** 
+Ronni Ross  
+2025
