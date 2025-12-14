@@ -1,10 +1,10 @@
-# ASI Active Learning Dataset v.1.0.0.
+# Active Learning Dataset (2.0.0)
 
 A collection of ML-related active learning datasets, including algorithms, .ipynb pipelines, .py scripts and curated and ethically aligned synthetic data.
 
 # Quickstart
 
-asi-active-learning-dataset is a comprehensive collection of Machine Learning (ML)-related active learning datasets, accompanied by algorithms, Jupyter Notebook (`.ipynb`) pipelines, Python (`.py`) scripts, and curated, ethically aligned synthetic data. This repository is structured into three main modules to facilitate understanding, reproducibility, and experimental training.
+active-learning-dataset is a comprehensive collection of Machine Learning (ML)-related active learning datasets, accompanied by algorithms, Jupyter Notebook (`.ipynb`) pipelines, Python (`.py`) scripts, and curated, ethically aligned synthetic data. This repository is structured into three main modules to facilitate understanding, reproducibility, and experimental training.
 
 ## Modules
 
